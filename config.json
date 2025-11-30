@@ -1,0 +1,5 @@
+{
+    "websocket_server": "here's your server address",
+    "token": "here's your token",
+    "auto_reconnect": true
+}
